@@ -1,0 +1,10 @@
+C:\Users\lj2566\Desktop\LJ_linolejanoklasana\LJ_linolejaieklasana\LJ_linolejaieklasana\obj\Debug\LJ_linolejaieklasana.csprojAssemblyReference.cache
+C:\Users\lj2566\Desktop\LJ_linolejanoklasana\LJ_linolejaieklasana\LJ_linolejaieklasana\obj\Debug\LJ_linolejaieklasana.Form1.resources
+C:\Users\lj2566\Desktop\LJ_linolejanoklasana\LJ_linolejaieklasana\LJ_linolejaieklasana\obj\Debug\LJ_linolejaieklasana.Properties.Resources.resources
+C:\Users\lj2566\Desktop\LJ_linolejanoklasana\LJ_linolejaieklasana\LJ_linolejaieklasana\obj\Debug\LJ_linolejaieklasana.csproj.GenerateResource.cache
+C:\Users\lj2566\Desktop\LJ_linolejanoklasana\LJ_linolejaieklasana\LJ_linolejaieklasana\obj\Debug\LJ_linolejaieklasana.csproj.CoreCompileInputs.cache
+C:\Users\lj2566\Desktop\LJ_linolejanoklasana\LJ_linolejaieklasana\LJ_linolejaieklasana\bin\Debug\LJ_linolejaieklasana.exe.config
+C:\Users\lj2566\Desktop\LJ_linolejanoklasana\LJ_linolejaieklasana\LJ_linolejaieklasana\bin\Debug\LJ_linolejaieklasana.exe
+C:\Users\lj2566\Desktop\LJ_linolejanoklasana\LJ_linolejaieklasana\LJ_linolejaieklasana\bin\Debug\LJ_linolejaieklasana.pdb
+C:\Users\lj2566\Desktop\LJ_linolejanoklasana\LJ_linolejaieklasana\LJ_linolejaieklasana\obj\Debug\LJ_linolejaieklasana.exe
+C:\Users\lj2566\Desktop\LJ_linolejanoklasana\LJ_linolejaieklasana\LJ_linolejaieklasana\obj\Debug\LJ_linolejaieklasana.pdb
